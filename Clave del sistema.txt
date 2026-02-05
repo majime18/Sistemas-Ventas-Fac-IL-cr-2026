@@ -1,0 +1,5 @@
+🔐 Usuario de prueba (admin)
+
+Usuario / Email: admin@facilcr.local
+
+Contraseña: Admin1234!
